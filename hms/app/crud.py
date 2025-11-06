@@ -1,1 +1,1 @@
-#lasya and hamsika helloooooò
+#lasya,hamsika,divya welcome to the project
