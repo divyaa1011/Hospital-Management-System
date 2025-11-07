@@ -1,0 +1,284 @@
+{"message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "time": "2025-11-06T17:03:50.461177+00:00"}
+{"message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "time": "2025-11-06T17:03:50.461177+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:03:50.462173+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:03:50.992011+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:03:50.993897+00:00"}
+{"message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "time": "2025-11-06T17:04:53.605747+00:00"}
+{"message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "time": "2025-11-06T17:04:53.611649+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:04:53.612746+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:04:54.129187+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:04:54.130196+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:36:43] \"\u001b[33mGET / HTTP/1.1\u001b[0m\" 404 -", "time": "2025-11-06T17:06:43.276340+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:36:43] \"\u001b[33mGET /favicon.ico HTTP/1.1\u001b[0m\" 404 -", "time": "2025-11-06T17:06:43.320723+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:38:15] \"\u001b[35m\u001b[1mGET /patients HTTP/1.1\u001b[0m\" 500 -", "time": "2025-11-06T17:08:15.721948+00:00"}
+{"message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "time": "2025-11-06T17:09:33.506458+00:00"}
+{"message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "time": "2025-11-06T17:09:33.507964+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:09:33.507964+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:09:33.993803+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:09:33.994965+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\crud.py', reloading", "time": "2025-11-06T17:09:58.096445+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:09:58.183810+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:09:58.676964+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:09:58.678342+00:00"}
+{"message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "time": "2025-11-06T17:10:08.100158+00:00"}
+{"message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "time": "2025-11-06T17:10:08.100158+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:10:08.101177+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:10:08.576872+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:10:08.578212+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:40:28] \"GET /patients HTTP/1.1\" 200 -", "time": "2025-11-06T17:10:28.776990+00:00"}
+{"message": "Patient created: {'id': 1, 'name': 'lasya', 'age': 21, 'disease': 'na'}", "time": "2025-11-06T17:10:44.451989+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:40:44] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:10:44.453109+00:00"}
+{"message": "Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29650c64b47sm34093535ad.46 - gsmtp')", "time": "2025-11-06T17:10:46.803146+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:12:40.196244+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:12:40.275833+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:12:40.768385+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:12:40.769405+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:12:47.804477+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:12:47.885867+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:12:48.380072+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:12:48.381068+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:12:52.401749+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:12:52.468537+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:12:52.944688+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:12:52.945707+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:12:57.969184+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:12:58.052856+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:12:58.529149+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:12:58.530220+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:00.544152+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:00.618795+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:01.090807+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:01.091823+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:08.121594+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:08.240505+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:08.739510+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:08.741549+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:11.759507+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:11.836800+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:12.386391+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:12.388874+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:35.529209+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:35.612616+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:36.126744+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:36.128251+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:37.136501+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:37.232781+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:37.929419+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:37.930445+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:39.944098+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:40.035642+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:40.668447+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:40.669451+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:41.681858+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:41.779624+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:42.293349+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:42.295342+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:13:43.305272+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:13:43.393934+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:13:43.900818+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:13:43.901837+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:43:56] \"GET /patients HTTP/1.1\" 200 -", "time": "2025-11-06T17:13:56.241301+00:00"}
+{"message": "Patient created: {'id': 2, 'name': 'lavanya', 'age': 44, 'disease': 'na'}", "time": "2025-11-06T17:14:07.890954+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:44:07] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:14:07.892449+00:00"}
+{"message": "Email sent successfully to lasyareddypulilasyareddypuli@gmail.com", "time": "2025-11-06T17:14:12.374675+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:45:18] \"GET /patients HTTP/1.1\" 200 -", "time": "2025-11-06T17:15:18.508618+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:47:27] \"GET /patients HTTP/1.1\" 200 -", "time": "2025-11-06T17:17:27.930282+00:00"}
+{"message": "Patient created: {'id': 3, 'name': 'ddddd', 'age': 34, 'disease': 'rrrdddfff'}", "time": "2025-11-06T17:17:41.743776+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:47:41] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:17:41.746241+00:00"}
+{"message": "Email sent successfully to lasyareddypulilasyareddypuli@gmail.com", "time": "2025-11-06T17:17:45.596127+00:00"}
+{"message": "Patient created: {'id': 4, 'name': 'eddfff', 'age': 56, 'disease': 'fghh'}", "time": "2025-11-06T17:18:00.077924+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:48:00] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:18:00.080209+00:00"}
+{"message": "Email sent successfully to lasyareddypulilasyareddypuli@gmail.com", "time": "2025-11-06T17:18:03.883374+00:00"}
+{"message": "Patient created: {'id': 5, 'name': 'dfhuyg', 'age': 67, 'disease': 'gggg'}", "time": "2025-11-06T17:18:09.320203+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:48:09] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:18:09.321200+00:00"}
+{"message": "Email sent successfully to lasyareddypulilasyareddypuli@gmail.com", "time": "2025-11-06T17:18:14.113038+00:00"}
+{"message": "Patient created: {'id': 6, 'name': 'ffffff', 'age': 89, 'disease': 'fffffff'}", "time": "2025-11-06T17:18:18.887705+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:48:18] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:18:18.887705+00:00"}
+{"message": "Email sent successfully to lasyareddypulilasyareddypuli@gmail.com", "time": "2025-11-06T17:18:22.551324+00:00"}
+{"message": "Patient created: {'id': 7, 'name': 'tgggddfff', 'age': 56, 'disease': 'fffffff'}", "time": "2025-11-06T17:18:27.495264+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:48:27] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:18:27.496273+00:00"}
+{"message": "Email sent successfully to lasyareddypulilasyareddypuli@gmail.com", "time": "2025-11-06T17:18:32.800114+00:00"}
+{"message": "Patient created: {'id': 8, 'name': 'edddfggggg', 'age': 444, 'disease': 'fffff'}", "time": "2025-11-06T17:18:40.559497+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:48:40] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -", "time": "2025-11-06T17:18:40.560506+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 22:48:42] \"GET /patients HTTP/1.1\" 200 -", "time": "2025-11-06T17:18:42.352595+00:00"}
+{"message": "Email sent successfully to lasyareddypulilasyareddypuli@gmail.com", "time": "2025-11-06T17:18:44.979182+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\run.py', reloading", "time": "2025-11-06T17:21:57.010556+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:21:57.120524+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:21:57.666708+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:21:57.667725+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\__init__.py', reloading", "time": "2025-11-06T17:22:21.749254+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:22:21.861518+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:22:22.511928+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:22:22.513961+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\models.py', reloading", "time": "2025-11-06T17:23:10.659654+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:23:10.732071+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:23:11.347291+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:23:11.349356+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\logger.py', reloading", "time": "2025-11-06T17:23:24.407429+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:23:24.478286+00:00"}
+{"message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "time": "2025-11-06T17:30:30.529201+00:00"}
+{"message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "time": "2025-11-06T17:30:30.530708+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:30:30.531713+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:30:31.060893+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:30:31.062393+00:00"}
+{"message": "127.0.0.1 - - [06/Nov/2025 23:00:55] \"GET /patients HTTP/1.1\" 200 -", "time": "2025-11-06T17:30:55.026704+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\run.py', reloading", "time": "2025-11-06T17:37:08.876507+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:09.037401+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:09.878282+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:09.880302+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\__init__.py', reloading", "time": "2025-11-06T17:37:14.905420+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:15.027255+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:15.650462+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:15.652461+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\__init__.py', reloading", "time": "2025-11-06T17:37:17.668222+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:17.741475+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:18.283938+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:18.286111+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:37:23.305921+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:23.389295+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:23.903328+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:23.904325+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading", "time": "2025-11-06T17:37:25.918792+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:26.015288+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:26.636153+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:26.638148+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\db.py', reloading", "time": "2025-11-06T17:37:36.695326+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:36.846693+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:37.424686+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:37.426704+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\models.py', reloading", "time": "2025-11-06T17:37:46.464274+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:46.557144+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:47.092191+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:47.094486+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\exceptions.py', reloading", "time": "2025-11-06T17:37:55.134656+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:37:55.240351+00:00"}
+{"message": " * Debugger is active!", "time": "2025-11-06T17:37:55.794228+00:00"}
+{"message": " * Debugger PIN: 441-262-139", "time": "2025-11-06T17:37:55.796222+00:00"}
+{"message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\logger.py', reloading", "time": "2025-11-06T17:38:02.830430+00:00"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:38:02.945137+00:00"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\crud.py', reloading"}
+{"message": " * Restarting with stat", "time": "2025-11-06T17:38:09.636454+00:00"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "INFO", "name": "werkzeug", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000"}
+{"level": "INFO", "name": "werkzeug", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:09:47] \"GET /patients HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "app.batch_calc", "message": "average_age_threaded computed"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:09:56] \"GET /patients/average-age HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:11:22] \"GET /health HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:11:33] \"GET /patients HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:11:41] \"\u001b[31m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 400 -"}
+{"level": "INFO", "name": "app.routes", "message": "TO_EMAIL not configured; skipping email"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:12:01] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:12:14] \"GET /patients/1 HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:12:31] \"PUT /patients/1 HTTP/1.1\" 200 -"}
+{"level": "ERROR", "name": "app", "message": "Unhandled exception", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 917, in full_dispatch_request\n    rv = self.dispatch_request()\n         ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 891, in dispatch_request\n    self.raise_routing_exception(req)\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 500, in raise_routing_exception\n    raise request.routing_exception  # type: ignore[misc]\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\ctx.py\", line 362, in match_request\n    result = self.url_adapter.match(return_rule=True)  # type: ignore\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\routing\\map.py\", line 629, in match\n    raise NotFound() from None\nwerkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again."}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:13:11] \"\u001b[35m\u001b[1mPUT /average-age?batch_size=10 HTTP/1.1\u001b[0m\" 500 -"}
+{"level": "ERROR", "name": "app", "message": "Unhandled exception", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 917, in full_dispatch_request\n    rv = self.dispatch_request()\n         ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 891, in dispatch_request\n    self.raise_routing_exception(req)\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 500, in raise_routing_exception\n    raise request.routing_exception  # type: ignore[misc]\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\ctx.py\", line 362, in match_request\n    result = self.url_adapter.match(return_rule=True)  # type: ignore\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\routing\\map.py\", line 629, in match\n    raise NotFound() from None\nwerkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again."}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:13:17] \"\u001b[35m\u001b[1mGET /average-age?batch_size=10 HTTP/1.1\u001b[0m\" 500 -"}
+{"level": "ERROR", "name": "app", "message": "Unhandled exception", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 917, in full_dispatch_request\n    rv = self.dispatch_request()\n         ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 891, in dispatch_request\n    self.raise_routing_exception(req)\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 500, in raise_routing_exception\n    raise request.routing_exception  # type: ignore[misc]\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\ctx.py\", line 362, in match_request\n    result = self.url_adapter.match(return_rule=True)  # type: ignore\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\routing\\map.py\", line 629, in match\n    raise NotFound() from None\nwerkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again."}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:13:18] \"\u001b[35m\u001b[1mGET /average-age?batch_size=10 HTTP/1.1\u001b[0m\" 500 -"}
+{"level": "INFO", "name": "app.batch_calc", "message": "average_age_threaded computed"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:13:30] \"GET /patients/average-age?batch_size=10 HTTP/1.1\" 200 -"}
+{"level": "ERROR", "name": "app.scraper", "message": "scrape failed", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\puliredd\\.vscode\\project\\Hospital-Management-System\\hms\\app\\scraper.py\", line 11, in fetch_page_title\n    resp = requests.get(url, timeout=8)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\api.py\", line 73, in get\n    return request(\"get\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\api.py\", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\sessions.py\", line 575, in request\n    prep = self.prepare_request(req)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\sessions.py\", line 484, in prepare_request\n    p.prepare(\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\models.py\", line 367, in prepare\n    self.prepare_url(url, params)\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\models.py\", line 438, in prepare_url\n    raise MissingSchema(\nrequests.exceptions.MissingSchema: Invalid URL '<url>': No scheme supplied. Perhaps you meant https://<url>?"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:14:44] \"GET /scrape?url=<url> HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "app.scraper", "message": "scraped page"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [06/Nov/2025 23:16:08] \"GET /scrape?url=https://www.who.int HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "INFO", "name": "werkzeug", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000"}
+{"level": "INFO", "name": "werkzeug", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:12:20] \"GET /patients HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "app.routes", "message": "TO_EMAIL not configured; skipping email"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:12:43] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:14:33] \"GET /patients HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:14:55] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -"}
+{"level": "ERROR", "name": "app.emailer", "message": "failed to send email", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\puliredd\\.vscode\\project\\Hospital-Management-System\\hms\\app\\emailer.py\", line 24, in _send_email_sync\n    smtp.login(Config.FROM_EMAIL, Config.APP_PASSWORD)\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py\", line 750, in login\n    raise last_exception\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py\", line 739, in login\n    (code, resp) = self.auth(\n                   ^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py\", line 662, in auth\n    raise SMTPAuthenticationError(code, resp)\nsmtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-341a68ad143sm7714983a91.3 - gsmtp')"}
+{"level": "INFO", "name": "app.scraper", "message": "scraped page"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:15:21] \"GET /scrape?url=https://www.who.int HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:15:32] \"GET /patients HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:15:55] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -"}
+{"level": "ERROR", "name": "app.emailer", "message": "failed to send email", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\puliredd\\.vscode\\project\\Hospital-Management-System\\hms\\app\\emailer.py\", line 24, in _send_email_sync\n    smtp.login(Config.FROM_EMAIL, Config.APP_PASSWORD)\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py\", line 750, in login\n    raise last_exception\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py\", line 739, in login\n    (code, resp) = self.auth(\n                   ^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py\", line 662, in auth\n    raise SMTPAuthenticationError(code, resp)\nsmtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29651c74339sm43767185ad.58 - gsmtp')"}
+{"level": "INFO", "name": "app.batch_calc", "message": "average_age_threaded computed"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:16:20] \"GET /patients/average-age HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\app\\\\config.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:16:41] \"GET /patients HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:16:49] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -"}
+{"level": "INFO", "name": "app.emailer", "message": "email sent"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\tests\\\\test_batch_calc.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\tests\\\\test_batch_calc.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\puliredd\\\\.vscode\\\\project\\\\Hospital-Management-System\\\\hms\\\\tests\\\\test_batch_calc.py', reloading"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "ERROR", "name": "app", "message": "Unhandled exception", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\base.py\", line 1967, in _exec_single_context\n    self.dialect.do_execute(\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\default.py\", line 951, in do_execute\n    cursor.execute(statement, parameters)\nsqlite3.OperationalError: no such table: patients\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 917, in full_dispatch_request\n    rv = self.dispatch_request()\n         ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py\", line 902, in dispatch_request\n    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\.vscode\\project\\Hospital-Management-System\\hms\\app\\routes.py\", line 27, in list_patients\n    patients = crud.get_all_patients()\n               ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\.vscode\\project\\Hospital-Management-System\\hms\\app\\crud.py\", line 15, in get_all_patients\n    return Patient.query.order_by(Patient.id).all()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\orm\\query.py\", line 2704, in all\n    return self._iter().all()  # type: ignore\n           ^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\orm\\query.py\", line 2857, in _iter\n    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(\n                                                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\orm\\session.py\", line 2351, in execute\n    return self._execute_internal(\n           ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\orm\\session.py\", line 2249, in _execute_internal\n    result: Result[Any] = compile_state_cls.orm_execute_statement(\n                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\orm\\context.py\", line 306, in orm_execute_statement\n    result = conn.execute(\n             ^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\base.py\", line 1419, in execute\n    return meth(\n           ^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\sql\\elements.py\", line 526, in _execute_on_connection\n    return connection._execute_clauseelement(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\base.py\", line 1641, in _execute_clauseelement\n    ret = self._execute_context(\n          ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\base.py\", line 1846, in _execute_context\n    return self._exec_single_context(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\base.py\", line 1986, in _exec_single_context\n    self._handle_dbapi_exception(\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\base.py\", line 2355, in _handle_dbapi_exception\n    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\base.py\", line 1967, in _exec_single_context\n    self.dialect.do_execute(\n  File \"C:\\Users\\puliredd\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sqlalchemy\\engine\\default.py\", line 951, in do_execute\n    cursor.execute(statement, parameters)\nsqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: patients\n[SQL: SELECT patients.id AS patients_id, patients.name AS patients_name, patients.age AS patients_age, patients.disease AS patients_disease \nFROM patients ORDER BY patients.id]\n(Background on this error at: https://sqlalche.me/e/20/e3q8)"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:32:57] \"\u001b[35m\u001b[1mGET /patients HTTP/1.1\u001b[0m\" 500 -"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "INFO", "name": "werkzeug", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000"}
+{"level": "INFO", "name": "werkzeug", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m"}
+{"level": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"level": "INFO", "name": "root", "message": "logging configured"}
+{"level": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"level": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 441-262-139"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:33:48] \"GET /patients HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:34:07] \"\u001b[35m\u001b[1mPOST /patients HTTP/1.1\u001b[0m\" 201 -"}
+{"level": "INFO", "name": "app.emailer", "message": "email sent"}
+{"level": "INFO", "name": "app.batch_calc", "message": "average_age_threaded computed"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:34:23] \"GET /patients/average-age HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "app.scraper", "message": "scraped page"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:35:17] \"GET /scrape?url=https://www.who.int/ HTTP/1.1\" 200 -"}
+{"level": "INFO", "name": "app.scraper", "message": "scraped page"}
+{"level": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [07/Nov/2025 09:37:05] \"GET /scrape?url=https://www.who.int/ HTTP/1.1\" 200 -"}
